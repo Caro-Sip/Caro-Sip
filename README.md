@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I’m Caro 👋
 
-<!--
-**Caro-Sip/Caro-Sip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my cozy spot!  
+I'm a programmer, an artist as a hobby, and a math enthusiast (obsession). 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- 🔭 Currently studying at: Institute of Technology of Cambodia
+- 🌱 Learning: C++, scientific computing, and efficient problem-solving
+- 🎯 Goal: Writing beautiful, efficient code
+
+---
+
+## 🛠️ Tech Toolbox
+- **Languages:** C++, MATLAB  
+- **Concepts:** Data structures & algorithms, problem-solving, numerical analysis  
+- **Tools:** Git, LaTeX, VS Code  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ A Few Fun Facts
+- I enjoy breaking down complex problems into simple steps.    
+- I believe there's no end to learning, it's ever-perpetual.  
+
+---
+
+## 📫 Let’s Connect
+- 💼 Email: suoncarolato@gmail.com
