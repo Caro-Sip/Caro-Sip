@@ -21,7 +21,6 @@ I'm a programmer, an artist as a hobby, and a math enthusiast (obsession).
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Caro-Sip&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
 
 ---
 
